@@ -1,5 +1,5 @@
 const { TestWatcher } = require("@jest/core");
-const Passenger = require("./passenger");
+const Passenger = require("../passenger");
 
 describe('Passenger class', () => {
     test('Passenger has name', () => {
