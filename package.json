@@ -1,0 +1,16 @@
+{
+  "name": "airportobjects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "airportObjects.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
